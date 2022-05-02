@@ -2,12 +2,19 @@
 //
 
 #include <iostream>
+int i = 1;
 
 int main()
 {
     
-    std::cout << "Hello  World!\n";
+    while (i != 0)
+    {
 
+    
+    
+        std::cout << "Hello  World!\n";
+        
+    }
     
 }
 
